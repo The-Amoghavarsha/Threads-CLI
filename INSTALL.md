@@ -6,6 +6,7 @@ figlet
 curl
 sed
 awk
+pcregrep
 ```
 
 <h1>Installation</h1>
